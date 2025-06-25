@@ -21,3 +21,6 @@ Now capture the request sent from the 1st site and replace the PHPSESSID with th
 
 do this until you get the answer.
 ![image](https://github.com/user-attachments/assets/9a1e3cd1-70db-4176-93b4-8eaf0ef7bfad)
+
+
+d8rwGBl0Xslg3b76uh3fEbSlnOUBlozz
